@@ -10,7 +10,7 @@
 1. Support Vector Machine (SVM)
 2. Artificial Neural Network (ANN)
 
-## Cara Menggunakan
+## Step Penggunaan
 
 ### Step 1. Eksekusi file **Preprocessing Dataset.ipynb**
 - Gunakan File **mainSimulationAccessTraces.csv** untuk dataset
