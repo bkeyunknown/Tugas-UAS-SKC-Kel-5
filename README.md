@@ -3,7 +3,7 @@
 ## Tools
 1. Python
 2. Library (Sklearn, Pandas, Matplotlib, Numpy, etc)
-3. Google Colab atau sejenisnya
+3. Jupyter Notebook, Google Colab atau sejenisnya
 4. Kaggle Dataset (https://www.kaggle.com/francoisxa/ds2ostraffictraces)
 
 ## Classifier 
